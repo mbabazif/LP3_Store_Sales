@@ -1,4 +1,4 @@
-## Corporation Favorita Sales Prediction
+# Corporation Favorita Sales Prediction
 
 ### Project Objective
 
