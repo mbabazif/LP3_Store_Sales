@@ -1,5 +1,4 @@
-# LP3_Store_Sales
-## Regression Project:Store Sales -- Time Series Forecasting
+## Corporation Favorita Sales Prediction
 
 ### Project Objective
 
