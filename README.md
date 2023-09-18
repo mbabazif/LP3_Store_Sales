@@ -70,3 +70,7 @@ Install the necessary libraries listed in the requirements file.
 Run the provided scripts to preprocess the data and perform the machine-learning tasks.
 
 Examine the results and analyses in the notebook or scripts.
+
+## Author
+
+Mbabazi Florence
