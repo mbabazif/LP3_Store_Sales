@@ -28,7 +28,7 @@ Predict on test data
 
  | Project's Name | Published Article  | Deployed PowerBi |
 |:--------------:|:--------------:|:--------------:|
-| LP3(Sales Predection)  |[Project Article](https://www.linkedin.com/pulse/store-sales-time-series-forecasting-florence-mbabazi) |    [Power BI Dashboard](https://app.powerbi.com/links/TFS5BUkmNP?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)|
+| LP3(Sales Predection)  |[Project Article](https://www.linkedin.com/pulse/store-sales-time-series-forecasting-florence-mbabazi) |    [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/7b258cc1-9eb5-4155-9586-3a0471fbc24a/ReportSection?experience=power-bi)|
 
 
 ## Usage
